@@ -27,7 +27,7 @@ Open PowerShell and run:
 
 ```powershell
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
-.\VMware-DRS-vSAN-Script.ps1
+.\VMware-DRS-Configuration.ps1
 ```
 
 The script will ask for:
