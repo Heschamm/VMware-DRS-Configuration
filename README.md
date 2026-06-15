@@ -1,7 +1,5 @@
 # VMware-DRS-Configuration PowerCLI Script
 
-# VMware DRS and vSAN Cluster Script
-
 ## Purpose
 This PowerCLI script connects to a vCenter, checks vSAN-enabled clusters, reports their DRS status, and allows you to:
 
